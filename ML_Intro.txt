@@ -20,7 +20,7 @@ Self-driving cars
 
 Assignment:
 1. What is Machine Learning? 
-2. Give 2 applications of the Machine Learning algorithm.
+2. Give 2 applications of Machine Learning.
 3. Explain any real-life scenario where a Machine Learning algorithm is used.
 4. How python is a very useful and supportive language for machine learning.
 
