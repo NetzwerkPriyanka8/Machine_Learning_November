@@ -1,0 +1,138 @@
+Different Data Types
+
+Quantitative Data (Numerical Data)
+Example - 
+Number of students in a particular college
+ 
+Types of Quantitative Data 
+Continuous Data
+Data that can be expressed in decimal form.
+Example- 
+Price of a home
+Marks of a student
+
+Discrete Data(Count data)
+Data that cannot be expressed in decimal form
+example
+No. of student in a class
+
+Qualitative Data  
+Non-numerical data
+Example:
+Asking feedback from the customers..(What they like what they don't like)
+Interview process
+
+Types of Qualitative Data
+
+1.Nominal
+Nominal data that has no order means if we change the order of its values, the meaning would not change
+What language do you speak?
+English
+French
+German 
+Spanish
+
+2.Ordinal 
+Order Matters.
+Eg.
+What is your educational background?
+1. Secondary
+2. Higher Secondary
+3. Graduation
+4. Post Graduation
+
+eg. MCQ questions 
+
+_______________________________________________________________________________________________________________________________________
+
+
+Structured Data
+which can be placed in a tabular format.
+Relational data
+data stored in Excel sheet
+
+Semi Structured
+Semi-structured data is information that does not reside in a relational database but that have some organizational properties that make it easier to analyze.
+eg. XML data, JSON data
+
+Unstructured Data
+Unstructured data is that data which in its raw state cannot be placed in any tabular format.
+eg.Videos, images, Audio/Speech, Textual data 
+
+____________________________________________________________________________________________________________________________________________
+
+Big Data 
+Data which cannot be stored in the available hardware and cannot be processed using available software.
+Its data sources includes social media, device data, sensor data, video, images, audio etc
+(It can be Structured data, Semi Structured data, Unstructured Data)
+Big Data includes huge volume, high velocity, and extensible variety of data. 
+
+Non – Big Data
+Traditinal data which can be stored in the available hardware and can be processed using available software
+
+________________________________________________________________________________________________________________________________________________
+
+Time Series Data
+
+Data for a single entity collected for a multiple time period.
+Entities can be - Households, Induviduals, Firms, cities, states, countries etc
+Ordering of the observation matters.
+Home sale for 2010 -2020 in India
+
+Single house H1 (Here no multiple entity taken)  but time varies
+            expenditure on food             Income
+2009, H1
+2010, H1
+2011, H1
+2012, H1
+
+One state at different time period (2000 -2020)
+           Population      employment
+2000,India
+2001,India
+2002,India
+2003,India
+2004,India
+2005,India
+
+
+
+
+Cross Sectional Data
+Data for different entities collected for a single time period.
+Entities can be - Households, Induviduals, Firms, cities, states, countries etc
+Ordering does not matters
+
+Multiple Entity  but time is Fixed
+Examples:
+            expenditure on food             Income
+2020, H1
+2020, H2
+2020, H3
+2020, H4
+2020, H5
+
+
+
+                 Population      employment
+2020,Country1
+2020,Country2
+2020,Country3
+2020,Country4
+2020,Country5
+
+
+
+Assignment Questions:
+1. Difference between quantitative & qualitative data
+2. Types of Qualitative data 
+3. Types of Quantitative data 
+4. Define time series data
+5. Define 
+Structured data
+Semi Structured data
+Unstructured data
+6.Difference between Cross sectional data & Time series data.
+7.Example of Cross sectional data & Time series data.
+
+
