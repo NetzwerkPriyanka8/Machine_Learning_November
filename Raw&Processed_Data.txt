@@ -1,0 +1,60 @@
+Raw & Processed Data
+
+Raw data
+Data is collected from various sources and not processed yet by human or machine.
+
+Processed data
+conversion of raw data to meaningfull info.
+
+
+Stages of the data processing cycle
+
+
+1.
+Data collection
+
+2. Data prepration
+Preparation is about constructing a data set from one or more data sources to be used for 
+further exploration and processing.
+
+3. Input
+
+is the task where verified data is coded or converted into machine readable form so that it can be processed through an application. 
+Data entry is done through the use of a keyboard, scanner, or data entry from an existing source. 
+
+
+when 2 data are continuous.. how much one data is affected by another or the relationship between them with the help of dots in 2 variable...
+
+4. Processing
+
+5. Output 
+The output/interpretation stage is the stage at which data is finally usable to non-data scientists. 
+It is translated, readable, and often in the form of graphs, videos, images, plain text, etc.).
+
+
+6. Storage
+After all of the data is processed, it is then stored for future use. 
+CRISP - Cross industry standard process for data mining
+
+6 phases of CRISP
+
+1. Business understanding
+2. Data understanding
+3. Data preparation
+4. Modelling
+5. Deployment
+
+Assessment:
+What are the difference between raw data and processed data.
+What are the various stages of data processing cycle.
+What is crisp? What are the different phases of Crisp.
+
+
+Steps in data processing w.r.t. ML
+Gathering the data
+Importing the dataset & Libraries
+Dealing with Missing Values
+Divide the dataset into Dependent & Independent variable
+dealing with Categorical values
+Split the dataset into training and test set
+Feature Scaling
