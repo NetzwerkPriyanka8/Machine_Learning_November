@@ -1,0 +1,38 @@
+Data Extraction
+Collection of data from different sources
+
+types of data that can b extracted:
+Customer data
+Financial data
+
+Why data extraction is imp.
+It can gather many types of info relevant to business.
+It helps in ETL process
+
+Steps in ETL Process:
+Extraction
+
+
+Transformation
+During the transformation phase, data is sorted, organized, and cleansed. 
+
+Loading
+The transformed, high quality data is then delivered to a single, unified target location for storage and analysis.
+
+
+2 types of extraction
+
+Full Extraction
+Data is completely extracted from the source, and there is no need to track changes.
+
+
+Incremental Extraction
+extracting data that has been changed or added after a well-defined event in the source database
+
+
+
+Assessments:
+1. What is data extraction
+2. Why data extraction is important
+3.  What are the steps of in the ETL process
+4. What are the different type of extraction
