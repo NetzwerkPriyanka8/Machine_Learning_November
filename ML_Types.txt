@@ -1,0 +1,80 @@
+Types of ML
+
+Dependent Variable (Label) 
+Independent Variable (Feature)
+  Feature           Label
+No. of rooms       price
+2                   30   Lac
+3                   40   Lac
+4                   40.5 Lac
+5                   60   Lac
+
+
+Training dataset
+The training data is used to train the model 
+
+Testing dataset
+testing data is used to test the model to get the accuracy of the prediction.
+
+________________________________________________________________________________________________________________________
+
+Types of ML
+
+1. Supervised
+We provide labeled data
+Types of supervised learning:
+Regression
+Regression is used when dealing with continuous data.
+eg. House price prediction
+Classification
+Classification is used when dealing with discrete data and it classify data into some specific categories. 
+eg. Email is spam or not.
+
+Type of regression:
+Linear Regression
+Polynomial Regression
+Support Vector Machine
+Decision Tree 
+Random Forest Regression
+K nearest neighbor  (KNN)
+Naive Bayes  
+
+
+Type of Classification:
+1. Support Vector Machine (SVM)
+2. Decision Trees  
+3. Logistic Regression
+4. Naive Bayes
+5. Random Forests
+6. K nearest neighbor  (KNN)
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+
+2. Unsupervised Learning
+there is no labeled associated with this learning.
+Type of Unsupervised Learning
+1. Clustering
+The method of clustering involves organizing unlabelled data into similar groups called clusters.
+K means Clustering
+
+
+___________________________________________________________________________________________________________________________
+
+3. Reinforcement Learning
+
+
+Assignment Question:
+
+1. Define feature and label.
+2. define training dataset and testing dataset.
+3.What are the different types of Machine Learning.
+4. Difference between supervised Learning and unsupervised learning.
+5. What are the types of supervised learning
+6. Define clustering.
+8. Define Reinforcement Learning
+
+
+
+
