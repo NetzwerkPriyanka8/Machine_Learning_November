@@ -1,0 +1,29 @@
+Linear Regression:
+Dependent variable is continuous in nature.
+Relationship between dependent variable & independent variable is linear in nature.
+
+
+1.) Simple Linear Regression
+one independent variable..
+One dependent variable …
+Y= mx+c, m=slope, c = intercept
+eg.
+Predicting the Salary of a person based on years of experience- 
+
+
+2.) Multiple Linear Regression
+More then one independent variable.. 
+One dependent variable 
+Y = c + m1x1 + m2x2+ m3x3+ …….  Mnxn
+House Price Prediction based on multiple feature
+
+
+Assignment
+
+What is Linear regression?
+What are the different types of linear regression ?
+Equation of both the type
+Example of each type
+
+
+
