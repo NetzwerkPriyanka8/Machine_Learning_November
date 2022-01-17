@@ -1,0 +1,30 @@
+ KNN
+The k-nearest neighbors (KNN) algorithm is a simple, easy-to- implement,  lazy learning, supervised machine learning algorithm 
+that can be used to solve both classification and regression problems using feature similarity.
+
+ K in KNN
+K is a number used to identify similar neighbors for the new data point.
+KNN takes K nearest neighbors to decide where the new data point with belong to.
+This decision is based on feature similarity.
+
+Steps of KNN
+
+Step 1: Choose a value for K. K should be an odd number.
+Step2: Find the distance of the new point to each of the training data.
+
+Step 3:Find the K nearest neighbors to the new data point.
+Step 4: For Classification, count the number of data points in each category 
+among the k neighbors. New data point will belong to class that has the most neighbors.
+
+For Regression, value for the new data point will be the average of the k neighbors.
+
+
+Distance can be calculated using
+Euclidean distance
+Manhattan distance
+
+Assessment:
+1. What is KNN algorithm?
+2. What is K in KNN?
+3.  What are the steps in KNN?
+4. How is the distance calculated in KNN.
