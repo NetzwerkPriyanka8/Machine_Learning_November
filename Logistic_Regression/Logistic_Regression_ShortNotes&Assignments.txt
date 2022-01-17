@@ -1,0 +1,31 @@
+What is Logistic Regression:
+Is a type supervised learning where it used to solve classification problem.
+E.g. When we have to predict if a student passes or fails in an exam when the number of hours spent studying is given as a feature, the response variable has two values, pass and fail.
+
+
+Data set having labels like:
+Yes-No, 0-1, etc. then use logistic regression as there linear regression fails.
+
+Here we use Sigmoid function  
+Y = 1/1+e-x 
+x = independent variable (That has to be transformed) , e = 2.718 
+e = natural logarithm base(also known as
+Euler’s number).
+Sigmoid function trying to convert the independent variable(feature) into a expression of Probability that ranges between 0-1 with respect to dependent variable.
+
+
+
+
+Application:
+Fraud Detection
+Disease Diagnosis
+Emergency Detection
+Spam no spam
+
+Assessments:
+What is logistic regression?
+What function we use in logistic regression?
+What is e and x in sigmoid function?
+What are the types of logistic regression?
+What are the application of Logistic Regression?
+Why logistic regression is used to solve classification problems?
