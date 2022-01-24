@@ -1,0 +1,40 @@
+
+Feature Scaling:
+
+Feature scaling is one of the most important data preprocessing step in machine learning. Algorithms that compute the distance between 
+the features are biased towards numerically larger values if the data is not scaled.
+Also, feature scaling helps machine learning, and deep learning algorithms train and converge faster.
+
+feature scaling techniques are:
+1.  Normalization 
+2.  Standardization
+
+Where should we use Feature Scaling:
+For example, one feature is entirely in kilograms while the other is in grams, another one is liters, and so on. 
+How can we use these features when they vary so vastly in terms of what they’re presenting?
+That is where the concept of feature scaling is used.
+
+we scale our data before employing a distance based algorithm so that all the features contribute equally to the result.
+
+Some of the algorithms where we use the concept of feature scaling are:
+KNN
+K Means Clustering 
+Deep Learning based algorithm etc
+
+
+1. Normalization or Min-Max Scaling
+Normalization is a scaling technique in which values are shifted and rescaled so that they end up ranging between 0 and 1. 
+It is also known as Min-Max scaling.
+The new point is calculated as:
+new = (X - X_min)/(X_max - X_min)
+
+2. Standardization is another scaling technique where the values are centered around the mean with a unit standard deviation. 
+This means that the mean of the attribute becomes zero and the resultant distribution has a unit standard deviation.
+The new point is calculated as:
+X_new = (X - mean)/Std 
+
+Assignments:
+1. What is feature scaling?
+2. In what type of algorithm we should apply feature scaling?
+3. What are the different techniques of feature scaling?
+4. Explain both the techniques of feature scaling
