@@ -1,0 +1,38 @@
+Cross-Validation:
+Cross-validation is a technique in which we train our model using the subset of the data-set and then 
+evaluate using the complementary subset of the data-set.
+
+
+Methods of Cross-Validation
+1.Validation
+2.LOOCV (Leave One Out Cross Validation)
+3.K-Fold Cross Validation
+
+
+
+1.Validation - 50% training data and 50% testing data(Validation).
+Disadvantage:
+The major drawback of this method is that we perform training on the 50% of the dataset, it may possible that the 
+remaining 50% of the data contains some important information which we are leaving while training our model i.e higher bias.
+
+
+2. LOOCV (Leave One Out Cross Validation) - In this method, we perform training on the whole data-set but leaves only one data-point of the available
+ data-set and then iterates for each data-point.
+Disadvantage:
+The major drawback of this method is that it leads to higher variation in the testing model as we are testing against one data point. 
+
+
+3. K-Fold Cross Validation- In this method, we split the data-set into k number of subsets(known as folds) then we perform training on the all 
+the subsets but leave one subset for the evaluation of the trained model. In this method, we iterate k times with a different subset reserved for testing 
+purpose each time.
+
+Advantages:
+This runs K times faster than Leave One Out cross-validation because K-fold cross-validation repeats the train/test split K-times.
+2. It is more accurate. 
+3. More “efficient” use of data as every observation is used for both training and testing.
+
+Assignment:
+1. What is cross validation.
+2. What are the different methods of cross validation.
+3. Explain each and every method.
+4. Why do we prefer using k-fold cross validation over other methods.
