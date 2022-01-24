@@ -1,0 +1,30 @@
+Confusion Metrix:-
+Confusion Matrix  is a much better way to evaluate the performance of a classifier is to look at the confusion matrix. 
+Confusion matrix is used to compare predicted and actual values.
+
+
+True Positive: Actual Positive and Predicted as Positive
+True Negative: Actual Negative and Predicted as Negative
+False Positive(Type I Error): Actual Negative but predicted as Positive
+False Negative(Type II Error): Actual Positive but predicted as Negative 
+
+
+True Positive(TP)
+Patient with covid is told that he/she has covid.
+True Negative(TN)
+Patient with no covid is told that he/she has no covid.
+False Positive(FP)
+Patient with no covid is told that he/she has  covid.
+False Negative(FN)
+Patient with covid is told that he/she has  no covid.
+
+
+Assignment Questions:
+What is confusion metrix?
+Define:
+1. TP
+2. TN
+3. FP
+4. FN
+
+
