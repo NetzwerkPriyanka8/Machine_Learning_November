@@ -1,0 +1,50 @@
+SVM
+
+Support Vector Machine or SVM is one of the most popular Supervised Learning algorithms, 
+which is used for Classification as well as Regression problems. 
+
+The SVM algorithm helps to find the best line or decision boundary, called hyperplane that classify the data points .
+
+SVM can be of two types:
+Linear SVM(LSVM): Linear SVM is used for linearly separable data, which means if a dataset can be classified into 
+two classes by using a single straight line, then such data is termed as linearly separable data, and classifier is used called as Linear SVM classifier.
+
+Non-linear SVM(NLSVM): Non-Linear SVM is used for non-linearly separated data, which means if a dataset cannot
+be classified by using a straight line, then such data is termed as non-linear data and classifier used is called as Non-linear SVM classifier.
+
+
+Hyperplane:
+
+The SVM algorithm helps to find the best line or decision boundary, this best boundary or region is called as a hyperplane.
+We always create a hyperplane that has a maximum margin, which means the maximum distance between the data points.
+The hyperplane with maximum margin is called the optimal hyperplane. 
+
+Support Vectors:
+The data points or vectors that are the closest to the hyperplane. 
+SVM algorithm finds the closest point of the lines from both the classes. These points are called support vectors. 
+
+Margin: 
+The distance between the support vectors  is called as margin  and the goal of SVM is to maximize this margin.
+
+NLSVM
+for non-linear data, we cannot draw a single straight line, here we use NLSVM Classifier
+
+Kernel Trick / Kernel function:
+A kernel transforms a low-dimensional input data space into a higher dimensional space. 
+So, it converts non-linear separable problems to linear separable problems by adding more dimensions to it. 
+Thus, the kernel trick helps us to build a more accurate classifier. Hence, it is useful in non-linear separation problems.
+
+In the context of SVMs, there are 4 popular kernels – Linear kernel, Polynomial kernel, Radial Basis Function (RBF) kernel and Sigmoid kernel. 
+
+
+Assignments:
+
+What is SVM?
+What are different Types of SVM?
+Define Support Vectors, Margin, Hyperplane.
+What is the difference between Linearly Separable Dataset & Non-Linearly Separable Dataset.
+How Kernel Trick is useful in NLSVM.
+Define Kernel.
+What are the different kernels available in SVM. 
+
+
