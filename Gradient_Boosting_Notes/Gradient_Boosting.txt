@@ -1,0 +1,43 @@
+Ensemble technique is a technique which uses multiple weak learners to produce a strong model for regression and classification.
+In ensemble learning, many base models like classifiers and regressors are generated and combined together so that they give better results.
+
+Boosting. Building multiple models (typically of the same type) each of which learns to fix the prediction 
+errors of a prior model in the sequence of models.
+
+
+Gradient Boosting:
+Gradient Boosting is an supervised machine learning algorithm used for classification and regression problems.
+Gradient Boosting is a popular boosting algorithm. In gradient boosting, each predictor corrects its predecessor’s error. 
+It is an ensemble technique which uses multiple weak learners to produce a strong model for regression and classification.
+Here each predictor is trained using the residual errors of predecessor as labels.
+
+
+Each tree predicts a label and final prediction is given by the formula,
+
+
+
+Steps:
+
+1. Calculate the average/mean of the target variable.
+
+2. calculate the residuals for each sample.
+Residual = Actual Value - Predicted Value
+
+3. use  decision tree algorithm to train the model considering residual as label . We build a tree with the goal of predicting the Residuals.
+
+4. Repeat steps 3 to 5 until the number of iterations matches the number specified by the hyper parameter(numbers of estimators)
+
+5. Once trained, use all of the trees in the ensemble to make a final prediction as to value of the target variable. 
+The final prediction will be equal to the mean we computed in Step 1 plus all the residuals predicted by the trees 
+that make up the forest multiplied by the learning rate.
+
+final prediction = Average Price + LR*Residual predicted by DT1 + LR*Residual Predicted by DT2 + .......LR*Residual Predicted by DT N
+
+Here,
+LR = Learning rate
+DT = Decision tree
+ 
+Assignments:
+1. What is ensemble technique? 
+3. What is gradient Boosting?
+4. What are the steps of gradient boosting?
