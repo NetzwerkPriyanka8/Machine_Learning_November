@@ -1,0 +1,33 @@
+XGBoost Algorithm or extreme gradient boosting 
+
+XGBoost is an advanced implementation of gradient boosting along with some regularization factors
+XGBoost or extreme gradient boosting is one of the well-known boosting techniques(ensemble) having enhanced performance
+and speed in tree-based (sequential decision trees) machine learning algorithms. 
+Earlier only python and R packages were built for XGBoost but now it has extended to Java, Scala, Julia and other languages as well.
+
+The main benefit of the XGBoost implementation is computational efficiency and often better model performance.
+
+XGBoost falls under the category of Boosting techniques in Ensemble Learning. 
+
+Ensemble learning consists of a collection of predictors which are multiple models to provide better prediction accuracy.
+In Boosting technique the errors made by previous models are tried to be corrected by succeeding models by adding some weights to the models. 
+
+
+XGBoost is an advanced implementation of gradient boosted decision trees designed for speed and performance.
+C++ (the language in which the library is written).
+
+Features of XGBoost
+Can be run on both single and distributed systems(Hadoop, Spark).
+XGBoost is used in supervised learning(regression and classification problems).
+Supports parallel processing.
+Cache optimization.
+Efficient memory management for large datasets exceeding RAM.
+Has a variety of regularizations which helps in reducing overfitting.
+Auto tree pruning – Decision tree will not grow further after certain limits internally.
+Can handle missing values.
+Has inbuilt Cross-Validation.
+
+
+Assignments:
+What is XGBoost algorithm?
+What are the properties of XGBoost algorithm?
