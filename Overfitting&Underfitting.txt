@@ -1,0 +1,80 @@
+Overfitting & Underfitting:-
+
+Bias - Bias Means error of the training data.
+Variance - Variance means error of the testing data.
+
+Good Model or Generalized Model
+Accuracy during training as well as testing is very high.
+It is able to perform well on training dataset as well as on testing dataset.
+For the best model – High accuracy during training as well as high accuracy during testing.
+
+Low Training error
+Low Testing Error
+
+Low Bias
+Low Variance
+
+
+Overfitting
+Accuracy during training is very high but accuracy during testing is very low then this condition is 
+called overfitting.
+It is able to perform well on training dataset but it does not perform well on testing dataset.
+
+Low Training error
+High Testing Error
+
+Low Bias
+High Variance
+
+
+Underfitting
+Accuracy during training is very low and so accuracy during testing is also low, this 
+condition is called overfitting.
+
+It  does not perform well on training dataset as well as on testing dataset.
+
+High Training error
+High Testing Error
+
+High Bias
+High Variance
+
+Example
+Good Model. or Most Generalised Model.
+Training Error - 1% |  Testing Error - 1%
+
+Overfitting
+Training Error - 1% |  Testing Error - 25%
+
+Underfitting
+Training Error - 20% | Testing Error - 20%
+
+How to avoid the Overfitting in Model:
+Cross-Validation
+Training with more data
+Removing features
+Regularization
+Ensembling
+
+How to avoid underfitting:
+1. Increase model complexity
+2. Increase number of features
+
+Goodness of fit
+goal of the machine learning models to achieve the goodness of fit. 
+The model with a good fit is between the underfitted and overfitted model.
+
+Bias and Variance tradeoff
+We need to have a model that is neither underfitting and nor overfitting. which is called as 
+Bias-Variance trade-off.
+If there is no balance between variance and bias then the model will not be able to generalize a failure
+to perform well on new data.
+
+
+AssignmentS:
+
+Define bias and variance.
+What is generalized model?
+What is overfitting?
+What is underfitting?
+What is bias variance tradeoff?
