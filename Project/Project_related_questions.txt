@@ -1,0 +1,34 @@
+Project:
+What are steps of developing a machine learning Model.
+What are the project that you have created in ML.
+*Explain your project.
+-Start with objective..
+-give overview about dataset used. 
+-What algorithm you used.
+-What library you used
+-How you checked the accuracy.
+
+How will you handle missing values.
+What is feature scaling.
+How will you check accuracy of classification based model and regression based model.
+
+Prepare well about the algorithm that you have you used in your project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
