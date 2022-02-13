@@ -1,0 +1,48 @@
+Interview Questions set 1
+
+
+What is the difference between AI and ML.
+What is Machine Learning?
+What are the different types of Machine Learning.
+What is the difference between supervised and unsupervised learning?
+What Are the Applications of Supervised Machine Learning in Modern Businesses?
+What are the difference between regression and classification?
+What are the different types of regression ?
+What is Linear Regression?
+Which machine learning algorithm is known as the lazy learner and why is it called so?
+Differentiate between K-Means clustering and KNN algorithms?
+Suggestion:
+K-Means clustering is Unsupervised Learning, where we don’t have any Labels present, in other words, no Target Variables and thus we try to cluster the 
+data based upon their coordinates and try to establish the nature of the cluster based on the elements filtered for that cluster.
+Which one is important? Model’s Performance or the Model’s Accuracy?
+
+What are the steps of developing an ML model?
+Define training dataset and testing dataset.
+How Will You Know that whether you have to choose regression or classification based algorithm for your model?
+What are Loss Function and Cost Functions? Explain the key Difference Between them?
+What is Clustering?
+What is Reinforcement Learning?
+What are the difference between continuous and discrete data.
+What is Time series data?
+What is the difference between stochastic gradient descent (SGD) and gradient descent (GD)?
+What is the difference between logistic regression and  Decision Tree?
+What are the five popular algorithms we use in Machine Learning?
+Explain each datatype with example
+Continuous
+Discrete
+Structured
+Unstructured
+Time series data
+What are the functions of the libraries Numpy and pandas.
+What are the libraries in ml used for visualization purpose.
+Define leaf node, root node and decision node in decision tree algorithm.
+What function we use in logistic regression. define that function.
+What is entropy.
+What are the different way by which decision tree algorithm creates tree.
+Define Gini index.
+
+
+
+
+
+
