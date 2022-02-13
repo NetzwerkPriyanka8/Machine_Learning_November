@@ -19,12 +19,10 @@ Which one is important? Model’s Performance or the Model’s Accuracy?
 What are the steps of developing an ML model?
 Define training dataset and testing dataset.
 How Will You Know that whether you have to choose regression or classification based algorithm for your model?
-What are Loss Function and Cost Functions? Explain the key Difference Between them?
 What is Clustering?
 What is Reinforcement Learning?
 What are the difference between continuous and discrete data.
 What is Time series data?
-What is the difference between stochastic gradient descent (SGD) and gradient descent (GD)?
 What is the difference between logistic regression and  Decision Tree?
 What are the five popular algorithms we use in Machine Learning?
 Explain each datatype with example
