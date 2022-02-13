@@ -1,14 +1,9 @@
 Q.)Explain SVM.
 
-Q.) Explain differences between random forest and gradient boosting algorithm.
-Random forest uses bagging techniques whereas GBM uses boosting techniques.
-Random forests mainly try to reduce variance and GBM reduces both bias and variance of a model
-
 Q.) What's the “kernel trick” and how is it useful?
 Q.) What are different Types of SVM?
 Q.) Define Support Vectors, Margin, Hyperplane.
 Q.)What is the difference between Linearly Separable Dataset & Non-Linearly Separable Dataset
 Q.)What are the difference between gradient boosting and XGBoost?
 Q.) What is ensemble technique? 
-Q.) What are the different types of ensemble techniques?
 Q.) What are the features of XGBoost?
