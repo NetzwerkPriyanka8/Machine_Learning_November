@@ -1,0 +1,26 @@
+Q.) What is Overfitting and how will you avoid Overfitting?
+Q.) What do you understand by Type I vs Type II error?
+Q.) What is Feature Engineering?
+Q.) What to do if you have a dataset with missing values?
+Q.) What is k fold cross validation?
+Q.) What is underfitting? How would you overcome underfitting. 
+Q.) Explain One-hot encoding and Label Encoding. How do they affect the dimensionality of the given dataset?
+Q.) What is true positive and true negative?
+Q.) What do you understand by L1 and L2 regularization?
+Q.) If you have high bias error, what does it mean? How to treat it?
+Q.) Explain the difference between Lasso and Ridge?
+Q.) What is the difference between precision and recall?
+Q.) What is cross-validation technique?
+Q.) Is it true that the L1 term in Lasso has the following purposes: performing feature selection, compensating for overfitting?
+Q.) which-regularization-is-used-to-reduce-the-over-fit-problem.
+Q.) Explain the difference between Normalization and Standardization.
+Q.) What is a confusion matrix and why do you need it?
+Q.) What is Bias, Variance and what do you mean by Bias-Variance Tradeoff?
+Q.) What should you do when your model is having issue of low bias and high variance?
+Q.) What do you mean by hyperparameter tuning?
+Q.) What are the different techniques of hyperparameter tuning?
+Q.) What are the different types of feature encoding?
+Q.) What is Imputation technique?
+Q.) What is feature scaling? In what type of algorithm you should apply feature scaling?
+Q.) What is standardization and normalization?
+Q.) How will you check the performance of your classification based model?
